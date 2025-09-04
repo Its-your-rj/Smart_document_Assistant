@@ -1,0 +1,10 @@
+streamlit
+python-dotenv
+PyPDF2
+python-docx
+langchain
+langchain-community
+transformers
+torch
+chromadb
+nltk
